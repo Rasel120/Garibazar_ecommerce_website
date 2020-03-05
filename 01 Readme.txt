@@ -1,6 +1,5 @@
                          : : : : : LOGIN DETAILS : : : : : 
 
-
 CREATE A DATABASE NAME "ecomm" AND IMPORT INSIDE "database" FOLDER.
 
 
@@ -13,8 +12,4 @@ USER LOGIN:
 
 Username: harry@den.com
 Password: code0
-
-Username: 
-Password: 
-
 
